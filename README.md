@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @vivien-a
 - 🌱 I’m currently studying computer science at the university of Northwestern Switzerland FHNW
