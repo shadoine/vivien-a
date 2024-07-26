@@ -6,7 +6,6 @@ I'm V, a computer science student at the University of Northwestern Switzerland 
 
 - 🌱 I’m currently studying Computer Science and Business at the University of Northwestern Switzerland (FHNW).
 - 🔒 I work in cybersecurity, focusing on protecting information systems and ensuring data integrity.
-- 🔭 I’m working on various projects to sharpen my skills and knowledge.
 
 ## 🛠️ Skills
 
