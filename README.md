@@ -12,10 +12,6 @@ I'm V, a computer science student at the University of Northwestern Switzerland 
 
 Here are some of the technologies and languages I work with:
 
-## 🛠️ Skills
-
-Here are some of the technologies and languages I work with:
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
