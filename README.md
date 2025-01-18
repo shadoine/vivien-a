@@ -22,16 +22,17 @@ Here are some of the technologies and languages I work with:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## 🖤 AI
+
+- 💫 Creating AI models
+- 🌸 Stable Diffusion / lora models
 
 ## 🔒 Cybersecurity Expertise
 
 - 🛡️ Penetration Testing
 - 🔐 Cryptography
-- 🕵️‍♂️ Digital Forensics
-- 🧩 Security Protocols
-- 🛠️ Vulnerability Assessment
 
 ## 📫 How to reach me
 
