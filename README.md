@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm V, a computer science student at the University of Northwestern Switzerland (FHNW) with a keen interest in data analytics, data engineering and cyber security.
+I'm V, a computer science student at the University of Northwestern Switzerland (FHNW) with a keen interest in AI, data analytics, data engineering and cyber security.
 
 ## 🚀 About Me
 
