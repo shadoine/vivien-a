@@ -24,21 +24,21 @@ Here are some of the technologies and languages I work with:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🖤 AI
-
-- 💫 Creating AI models
-- 🌸 Stable Diffusion / lora models
-
-## 🔒 Cybersecurity Expertise
-
-- 🛡️ Penetration Testing
-- 🔐 Cryptography
-
 ## 🌐 Web Development
 
 - 🖥️ Building responsive websites
 - ⚡ Frontend + Backend web applications
 - 💡 Focus on usability and performance
+
+## 🖤 AI
+
+- 💫 Creating AI models
+- 🌸 Stable Diffusion / lora models
+
+## 🔒 Cybersecurity
+
+- 🛡️ Penetration Testing
+- 🔐 Cryptography
 
 ## 📫 How to reach me
 
